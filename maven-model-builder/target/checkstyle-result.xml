@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/validation/DefaultModelValidator.java">
+<error line="982" column="68" severity="warning" message="Expected @param tag for &apos;problems&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="982" column="89" severity="warning" message="Expected @param tag for &apos;d&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="982" column="99" severity="warning" message="Expected @param tag for &apos;prefix&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/validation/ModelValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/inheritance/DefaultInheritanceAssembler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/inheritance/InheritanceAssembler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileSelector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileActivationContext.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileActivationContext.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/OperatingSystemProfileActivator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/PropertyProfileActivator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/ProfileActivator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/JdkVersionProfileActivator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/activation/FileProfileActivator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/DefaultProfileSelector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/profile/ProfileInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/normalization/ModelNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/normalization/DefaultModelNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/io/DefaultModelReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelParseException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/io/DefaultModelWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/io/ModelWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/StringVisitorModelInterpolator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/ProblemDetectingValueSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/MavenBuildTimestamp.java">
+<error line="32" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="34" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/BuildTimestampValueSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/PathTranslatingPostProcessor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/UrlNormalizingPostProcessor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/DefaultModelVersionProcessor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/AbstractStringBasedModelInterpolator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/ModelInterpolator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/StringSearchModelInterpolator.java">
+<error line="221" column="34" severity="warning" message="&apos;fields&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/interpolation/ModelVersionProcessor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/superpom/DefaultSuperPomProvider.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/superpom/SuperPomProvider.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProcessor.java">
+<error line="30" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuilder.java">
+<error line="57" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" column="48" severity="warning" message="Expected @param tag for &apos;pomFile&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" column="61" severity="warning" message="Expected @param tag for &apos;validationLevel&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" column="86" severity="warning" message="Expected @param tag for &apos;locationTracking&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollectorRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelSource2.java">
+<error line="52" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/Result.java">
+<error line="50" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="50" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="60" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="60" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="71" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="71" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="88" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="88" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="118" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="118" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="128" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="128" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="139" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="139" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="149" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="149" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="176" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="176" column="20" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProcessor.java">
+<error line="72" column="63" severity="warning" message="&apos;locator&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="77" column="61" severity="warning" message="&apos;reader&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelData.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuilderFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/FilterModelBuildingRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/UrlModelSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelCacheTag.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProblemCollector.java">
+<error line="116" column="43" severity="warning" message="&apos;problems&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="128" column="16" severity="warning" message="&apos;source&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="165" column="29" severity="warning" message="&apos;result&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblem.java">
+<error line="34" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="35" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="44" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="45" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="46" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="47" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingRequest.java">
+<error line="288" column="56" severity="warning" message="&apos;buildStartTime&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="312" column="80" severity="warning" message="&apos;modelBuildingListener&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="336" column="51" severity="warning" message="&apos;rawModel&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="347" column="82" severity="warning" message="&apos;workspaceResolver&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/StringModelSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/FileModelSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingEventCatapult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelProblemCollectorExt.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/AbstractModelBuildingListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelProblem.java">
+<error line="63" column="21" severity="warning" message="Expected @param tag for &apos;version&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/ModelBuildingRequest.java">
+<error line="77" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/building/DefaultModelBuildingEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/merge/MavenModelMerger.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/composition/DependencyManagementImporter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/composition/DefaultDependencyManagementImporter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/resolution/InvalidRepositoryException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/resolution/UnresolvableModelException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/resolution/WorkspaceModelResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/resolution/ModelResolver.java">
+<error line="107" column="55" severity="warning" message="Expected @param tag for &apos;replace&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/ModelPathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultModelUrlNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/ProfileActivationFilePathInterpolator.java">
+<error line="56" column="38" severity="warning" message="Expected @param tag for &apos;path&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="56" column="69" severity="warning" message="Expected @param tag for &apos;context&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultModelPathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultUrlNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/DefaultPathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/PathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/ModelUrlNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/path/UrlNormalizer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultPluginManagementInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/management/DefaultDependencyManagementInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/management/DependencyManagementInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/management/PluginManagementInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/PluginConfigurationExpander.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/ReportConfigurationExpander.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultReportingConverter.java">
+<error line="218" column="27" severity="warning" message="&apos;location&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="234" column="92" severity="warning" message="&apos;location&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="240" column="69" severity="warning" message="&apos;location&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultPluginConfigurationExpander.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/ReportingConverter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/LifecycleBindingsInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/plugin/DefaultReportConfigurationExpander.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/locator/DefaultModelLocator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/model/locator/ModelLocator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-model-builder/src/main/java/org/apache/maven/utils/Os.java">
+</file>
+</checkstyle>

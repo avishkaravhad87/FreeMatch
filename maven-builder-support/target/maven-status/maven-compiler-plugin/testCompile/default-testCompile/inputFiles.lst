@@ -1,0 +1,6 @@
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/DefaultProblemCollectorTest.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/DefaultProblemTest.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/FileSourceTest.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/ProblemCollectorFactoryTest.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/StringSourceTest.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/test/java/org/apache/maven/building/UrlSourceTest.java

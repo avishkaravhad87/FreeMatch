@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/DefaultSettingsDecryptionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/SettingsDecryptionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/SettingsDecrypter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/SettingsDecryptionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/DefaultSettingsDecrypter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/crypto/DefaultSettingsDecryptionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/validation/SettingsValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/validation/DefaultSettingsValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/io/SettingsReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/io/DefaultSettingsWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/io/SettingsWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/io/DefaultSettingsReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/io/SettingsParseException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/FileSettingsSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsProblem.java">
+<error line="34" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="35" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsBuildingException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsBuildingRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/StringSettingsSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/UrlSettingsSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsProblemCollector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsProblemCollector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsBuildingRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsBuilderFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/SettingsSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/building/DefaultSettingsProblem.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/main/java/org/apache/maven/settings/merge/MavenSettingsMerger.java">
+</file>
+</checkstyle>

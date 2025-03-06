@@ -1,0 +1,9 @@
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/AbstractRepositoryTestCase.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReaderTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultModelResolverTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/DefaultVersionResolverTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/MavenRepositorySystemUtilsTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/RepositorySystemTest.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleRepositoryListener.java
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/test/java/org/apache/maven/repository/internal/util/ConsoleTransferListener.java

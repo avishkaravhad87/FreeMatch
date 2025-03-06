@@ -1,0 +1,21 @@
+#Thu Mar 06 18:53:06 UTC 2025
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorReaderDelegate.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorUtils.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCache.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCacheFactory.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelResolver.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadataGenerator.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenRepositorySystemUtils.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenResolverModule.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenSnapshotMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenWorkspaceReader.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ModelCacheFactory.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/PluginsMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/PluginsMetadataGenerator.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataGenerator.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGenerator.java=1723625327000
+configuration*?=7C0FF4E1CD8671E1001CC58418DDC50DD523DB12

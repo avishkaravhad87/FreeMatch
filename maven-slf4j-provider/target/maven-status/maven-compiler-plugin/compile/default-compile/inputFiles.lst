@@ -1,0 +1,9 @@
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/MavenSimpleLogger.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/MavenSimpleLoggerFactory.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/StaticLoggerBinder.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/OutputChoice.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/SimpleLogger.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/SimpleLoggerConfiguration.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/SimpleLoggerFactory.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/StaticMDCBinder.java
+/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/target/generated-sources/slf4j-simple/org/slf4j/impl/StaticMarkerBinder.java

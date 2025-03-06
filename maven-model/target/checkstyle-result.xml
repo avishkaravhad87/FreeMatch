@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-model/src/main/java/org/apache/maven/model/merge/ModelMerger.java">
+<error line="1" severity="error" message="File length is 2,498 lines (max allowed is 2,000)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+</file>
+</checkstyle>

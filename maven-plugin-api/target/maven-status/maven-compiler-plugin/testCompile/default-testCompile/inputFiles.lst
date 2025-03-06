@@ -1,0 +1,3 @@
+/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/test/java/org/apache/maven/plugin/descriptor/MojoDescriptorTest.java
+/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/test/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilderTest.java
+/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/test/java/org/apache/maven/plugin/lifecycle/LifecycleXpp3ReaderTest.java

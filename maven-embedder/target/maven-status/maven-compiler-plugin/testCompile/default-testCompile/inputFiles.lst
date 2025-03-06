@@ -1,0 +1,8 @@
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/CLIManagerDocumentationTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/CLIManagerTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/CLIReportingUtilsTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/CleanArgumentTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/MavenCliTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/event/ExecutionEventLoggerTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/transfer/FileSizeFormatTest.java
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/java/org/apache/maven/cli/transfer/SimplexTransferListenerTest.java

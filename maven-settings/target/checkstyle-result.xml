@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-settings/src/main/java/org/apache/maven/settings/RuntimeInfo.java">
+<error line="29" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="32" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="35" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+</checkstyle>

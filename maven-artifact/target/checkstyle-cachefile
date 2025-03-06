@@ -1,0 +1,17 @@
+#Thu Mar 06 18:52:29 UTC 2025
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/InvalidArtifactRTException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadata.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/repository/Authentication.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/repository/layout/ArtifactRepositoryLayout2.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataStoreException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/AbstractArtifactResolutionException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/ArtifactNotFoundException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/CyclicDependencyException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/resolver/filter/ArtifactFilter.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ArtifactVersion.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/ComparableVersion.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/DefaultArtifactVersion.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/InvalidVersionSpecificationException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/main/java/org/apache/maven/artifact/versioning/OverConstrainedVersionException.java=1723625327000
+configuration*?=58184C3F60AAB1891755DD56DD9D278BBC76EC44

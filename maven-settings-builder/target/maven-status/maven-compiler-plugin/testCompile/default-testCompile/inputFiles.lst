@@ -1,0 +1,2 @@
+/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/test/java/org/apache/maven/settings/building/DefaultSettingsBuilderFactoryTest.java
+/opt/maven/apache-maven-3.9.9/maven-settings-builder/src/test/java/org/apache/maven/settings/validation/DefaultSettingsValidatorTest.java

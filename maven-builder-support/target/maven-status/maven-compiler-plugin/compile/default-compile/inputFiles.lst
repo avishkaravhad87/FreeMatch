@@ -1,0 +1,9 @@
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/DefaultProblem.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/DefaultProblemCollector.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/FileSource.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/Problem.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/ProblemCollector.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/ProblemCollectorFactory.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/Source.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/StringSource.java
+/opt/maven/apache-maven-3.9.9/maven-builder-support/src/main/java/org/apache/maven/building/UrlSource.java

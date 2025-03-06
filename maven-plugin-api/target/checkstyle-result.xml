@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/monitor/logging/DefaultLog.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojo.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/SystemStreamLog.java">
+<error line="33" column="36" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="40" column="36" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="40" column="55" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="47" column="33" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="54" column="35" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="61" column="35" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="61" column="54" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="68" column="32" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" column="35" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="82" column="35" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="82" column="54" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="89" column="32" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="96" column="36" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="36" severity="warning" message="Expected @param tag for &apos;content&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="55" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="115" column="33" severity="warning" message="Expected @param tag for &apos;error&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="127" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="135" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="142" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="149" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/logging/Log.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/Mojo.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoExecutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/ContextEnabled.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/MojoFailureException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Parameter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptorBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/PluginDescriptor.java">
+<error line="167" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="167" column="61" severity="warning" message="Expected @param tag for &apos;artifactId&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/MojoDescriptor.java">
+<error line="254" column="56" severity="warning" message="Expected @param tag for &apos;requiresDependencyCollection&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateParameterException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/Requirement.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidPluginDescriptorException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/DuplicateMojoDescriptorException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/descriptor/InvalidParameterException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-plugin-api/src/main/java/org/apache/maven/plugin/AbstractMojoExecutionException.java">
+<error line="27" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="29" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+</checkstyle>

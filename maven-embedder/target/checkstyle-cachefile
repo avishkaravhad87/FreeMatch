@@ -1,0 +1,23 @@
+#Thu Mar 06 18:55:21 UTC 2025
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/CleanArgument.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/CliRequest.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/ResolveFile.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/configuration/ConfigurationProcessor.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/event/DefaultEventSpyContext.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/event/ExecutionEventLogger.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/internal/ExtensionResolutionException.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/BaseSlf4jConfiguration.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/Slf4jStdoutLogger.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Log4j2Configuration.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/LogbackConfiguration.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/Slf4jSimpleConfiguration.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/logging/impl/UnsupportedSlf4jBindingConfiguration.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/transfer/BatchModeMavenTransferListener.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/transfer/ConsoleMavenTransferListener.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/transfer/QuietMavenTransferListener.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/apache/maven/cli/transfer/TransferResourceIdentifier.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/slf4j/MavenSlf4jFriend.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/java/org/slf4j/impl/MavenSlf4jSimpleFriend.java=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/main/resources/META-INF/maven/slf4j-configuration.properties=1723625327000
+/opt/maven/apache-maven-3.9.9/maven-embedder/src/test/resources/META-INF/maven/org.apache.maven/maven-core/pom.properties=1723625327000
+configuration*?=282B13C2CF87D506DCB184BC6DB865C42E1D896F

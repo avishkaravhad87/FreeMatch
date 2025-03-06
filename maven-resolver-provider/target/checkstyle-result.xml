@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/PluginsMetadataGenerator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/PluginsMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RelocatedArtifact.java">
+<error line="81" column="39" severity="warning" message="&apos;version&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ArtifactDescriptorReaderDelegate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenRepositorySystemUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultArtifactDescriptorReader.java">
+<error line="151" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="151" column="89" severity="warning" message="Expected @param tag for &apos;versionRangeResolver&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/PluginsMetadataGeneratorFactory.java">
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenMetadata.java">
+<error line="102" column="52" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenSnapshotMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RequestTraceHelper.java">
+<error line="42" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="42" column="49" severity="warning" message="Expected @param tag for &apos;detailed&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="42" column="72" severity="warning" message="Expected @param tag for &apos;requestTrace&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGeneratorFactory.java">
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/RemoteSnapshotMetadataGenerator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelCacheFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenResolverModule.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/MavenWorkspaceReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadataGenerator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/ModelCacheFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionRangeResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultVersionResolver.java">
+<error line="438" column="35" severity="warning" message="&apos;timestamp&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/LocalSnapshotMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/SnapshotMetadataGeneratorFactory.java">
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/VersionsMetadataGenerator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-resolver-provider/src/main/java/org/apache/maven/repository/internal/DefaultModelResolver.java">
+</file>
+</checkstyle>

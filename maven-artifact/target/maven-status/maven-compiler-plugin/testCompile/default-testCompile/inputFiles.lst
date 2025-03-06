@@ -1,0 +1,7 @@
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/ArtifactUtilsTest.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/DefaultArtifactTest.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/handler/ArtifactHandlerMock.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionIT.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/ComparableVersionTest.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/DefaultArtifactVersionTest.java
+/opt/maven/apache-maven-3.9.9/maven-artifact/src/test/java/org/apache/maven/artifact/versioning/VersionRangeTest.java

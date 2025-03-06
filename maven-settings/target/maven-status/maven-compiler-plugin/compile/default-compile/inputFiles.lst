@@ -1,0 +1,17 @@
+/opt/maven/apache-maven-3.9.9/maven-settings/src/main/java/org/apache/maven/settings/RuntimeInfo.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Activation.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/ActivationFile.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/ActivationOS.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/ActivationProperty.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/IdentifiableBase.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Mirror.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Profile.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Proxy.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Repository.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/RepositoryBase.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/RepositoryPolicy.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Server.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/Settings.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/TrackableBase.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/io/xpp3/SettingsXpp3Reader.java
+/opt/maven/apache-maven-3.9.9/maven-settings/target/generated-sources/modello/org/apache/maven/settings/io/xpp3/SettingsXpp3Writer.java

@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/session/scope/internal/SessionScopeModule.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/session/scope/internal/SessionScope.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/rtinfo/RuntimeInformation.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/rtinfo/internal/DefaultRuntimeInformation.java">
+<error line="100" column="20" severity="warning" message="&apos;mavenVersion&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ArtifactFilterManagerDelegate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/properties/internal/SystemProperties.java">
+<error line="30" column="55" severity="warning" message="Expected @param tag for &apos;props&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/properties/internal/EnvironmentUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmManager.java">
+<error line="61" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="286" column="41" severity="warning" message="&apos;delegates&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmConstituent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmManagerDelegate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/ClassRealmRequest.java">
+<error line="73" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/ArtifactClassRealmConstituent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/classrealm/DefaultClassRealmRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/BuildFailureException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/DuplicateProjectException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/DefaultBeanConfigurationRequest.java">
+<error line="70" column="68" severity="warning" message="&apos;configuration&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationValuePreprocessor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/internal/DefaultBeanConfigurator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationPathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BasedirBeanConfigurationPathTranslator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/configuration/BeanConfigurationException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/DefaultMaven.java">
+<error line="72" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="78" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ProjectDependenciesResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/InvalidRepositoryException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/handler/DefaultArtifactHandler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/handler/manager/ArtifactHandlerManager.java">
+<error line="29" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/handler/manager/DefaultArtifactHandlerManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadataSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/metadata/ArtifactMetadataRetrievalException.java">
+<error line="32" column="54" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="38" column="57" severity="warning" message="Expected @param tag for &apos;cause&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="44" column="54" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="44" column="73" severity="warning" message="Expected @param tag for &apos;cause&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/metadata/ResolutionGroup.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/metadata/AbstractArtifactMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/DependencyResolutionRequiredException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/RepositoryCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/DefaultRepositoryRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/AbstractRepositoryMetadata.java">
+<error line="69" column="18" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="148" column="84" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="155" column="40" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/MetadataParseException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/MetadataReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/io/DefaultMetadataReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataDeploymentException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadata.java">
+<error line="32" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="34" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataResolutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/RepositoryMetadataInstallationException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/metadata/ArtifactRepositoryMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/RepositoryRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/LegacyLocalRepositoryManager.java">
+<error line="224" column="88" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="228" column="44" severity="warning" message="&apos;metadata&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="258" column="99" severity="warning" message="&apos;repository&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/layout/DefaultRepositoryLayout.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java">
+<error line="108" column="66" severity="warning" message="&apos;snapshots&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="116" column="65" severity="warning" message="&apos;releases&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="226" column="35" severity="warning" message="&apos;url&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/CumulativeScopeArtifactFilter.java">
+<error line="64" column="47" severity="warning" message="&apos;scopes&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ExcludesArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionSetFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ScopeArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/AndArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/IncludesArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/ExclusionArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/filter/AbstractScopeArtifactFilter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/ArtifactResolutionResult.java">
+<error line="110" column="64" severity="warning" message="&apos;resolutionNodes&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="167" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="167" column="72" severity="warning" message="Expected @param tag for &apos;e&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionListener.java">
+<error line="30" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="32" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="34" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="38" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="40" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="42" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="44" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="47" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="55" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="57" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="59" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="61" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="63" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionErrorHandler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/ResolutionNode.java">
+<error line="81" column="63" severity="warning" message="&apos;remoteRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="111" column="23" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="123" column="26" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="152" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="195" column="27" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/resolver/DefaultResolutionErrorHandler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/factory/ArtifactFactory.java">
+<error line="30" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/artifact/factory/DefaultArtifactFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/model/plugin/DefaultLifecycleBindingsInjector.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/bridge/MavenRepositorySystem.java">
+<error line="565" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/AbstractMavenLifecycleParticipant.java">
+<error line="41" column="48" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="53" column="48" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="66" column="46" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ProjectCycleException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/eventspy/AbstractEventSpy.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyRepositoryListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/eventspy/internal/EventSpyDispatcher.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/eventspy/EventSpy.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MavenSession.java">
+<error line="241" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="246" column="51" severity="warning" message="Expected @param tag for &apos;allProjects&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="377" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ProjectExecutionEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/BuildFailure.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequest.java">
+<error line="309" column="65" severity="warning" message="&apos;activeProfiles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="320" column="67" severity="warning" message="&apos;inactiveProfiles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="331" column="81" severity="warning" message="&apos;remoteRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="342" column="89" severity="warning" message="&apos;pluginArtifactRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="412" column="56" severity="warning" message="&apos;basedir&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="419" column="52" severity="warning" message="&apos;startTime&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="426" column="56" severity="warning" message="&apos;showErrors&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="433" column="56" severity="warning" message="&apos;goals&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="444" column="72" severity="warning" message="&apos;localRepository&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="455" column="62" severity="warning" message="&apos;localRepository&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="462" column="64" severity="warning" message="&apos;localRepository&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="480" column="63" severity="warning" message="&apos;userProperties&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="499" column="67" severity="warning" message="&apos;selectedProjects&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="510" column="67" severity="warning" message="&apos;excludedProjects&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="528" column="57" severity="warning" message="&apos;makeBehavior&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="553" column="65" severity="warning" message="&apos;profiles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="562" column="67" severity="warning" message="&apos;profiles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="581" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="582" column="52" severity="warning" message="Expected @param tag for &apos;pomFilename&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="591" column="46" severity="warning" message="&apos;pom&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="605" column="71" severity="warning" message="&apos;transferListener&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="612" column="54" severity="warning" message="&apos;loggingLevel&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="619" column="53" severity="warning" message="&apos;offline&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="626" column="61" severity="warning" message="&apos;updateSnapshots&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="633" column="63" severity="warning" message="&apos;noSnapshotUpdates&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="640" column="65" severity="warning" message="&apos;globalChecksumPolicy&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="659" column="57" severity="warning" message="&apos;proxies&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="693" column="58" severity="warning" message="&apos;servers&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="727" column="58" severity="warning" message="&apos;mirrors&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="761" column="60" severity="warning" message="&apos;profiles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="781" column="63" severity="warning" message="&apos;pluginGroups&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="801" column="63" severity="warning" message="&apos;pluginGroups&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="810" column="55" severity="warning" message="&apos;recursive&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="839" column="59" severity="warning" message="&apos;userSettingsFile&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="851" column="61" severity="warning" message="&apos;globalSettingsFile&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="863" column="61" severity="warning" message="&apos;userToolchainsFile&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="875" column="63" severity="warning" message="&apos;globalToolchainsFile&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="963" column="69" severity="warning" message="&apos;repositoryCache&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="975" column="73" severity="warning" message="&apos;executionListener&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="997" column="69" severity="warning" message="&apos;workspaceReader&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1008" column="64" severity="warning" message="&apos;cacheTransferError&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1019" column="59" severity="warning" message="&apos;cacheNotFound&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1030" column="74" severity="warning" message="&apos;ignoreTransitiveRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1041" column="70" severity="warning" message="&apos;useLegacyLocalRepositoryManager&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1047" column="54" severity="warning" message="&apos;builderId&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1066" column="82" severity="warning" message="&apos;toolchains&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1082" column="75" severity="warning" message="&apos;eventSpyDispatcher&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionRequestPopulator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MojoExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequestPopulator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/SettingsAdapter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/scope/WeakMojoExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScope.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScopeCoreModule.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/scope/internal/MojoExecutionScopeModule.java">
+<error line="32" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/scope/MojoExecutionScoped.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/DefaultMavenExecutionResult.java">
+<error line="43" column="57" severity="warning" message="&apos;project&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="53" column="83" severity="warning" message="&apos;topologicallySortedProjects&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="69" column="90" severity="warning" message="&apos;dependencyResolutionResult&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="89" column="54" severity="warning" message="&apos;project&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ProjectExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/AbstractExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequest.java">
+<error line="49" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="51" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="53" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="55" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="57" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="59" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="65" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="67" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="69" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="75" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="77" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="79" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="85" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="87" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="258" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="263" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="263" column="67" severity="warning" message="Expected @param tag for &apos;ignoreTransitiveRepositories&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="391" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="400" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="401" column="63" severity="warning" message="Expected @param tag for &apos;useLegacyLocalRepository&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="409" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="409" column="47" severity="warning" message="Expected @param tag for &apos;builderId&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="417" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="437" column="46" severity="warning" message="Expected @param tag for &apos;file&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="442" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="447" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="447" column="68" severity="warning" message="Expected @param tag for &apos;eventSpyDispatcher&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="452" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="457" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/BuildSuccess.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ProjectDependencyGraph.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/BuildSummary.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MavenExecutionRequestPopulationException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/MojoExecutionEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ReactorManager.java">
+<error line="38" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="40" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="42" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="44" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="46" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="49" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/execution/ExecutionEvent.java">
+<error line="35" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="37" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="38" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="39" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="40" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="41" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="42" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="43" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="44" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="45" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="46" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="47" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="48" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="49" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="50" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="51" column="9" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifeCyclePluginAnalyzer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/Lifecycle.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleExecutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/Lifecycle.java">
+<error line="50" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecycleMojo.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecyclePhase.java">
+<error line="68" column="29" severity="warning" message="&apos;mojos&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/DefaultLifecycleMapping.java">
+<error line="54" column="58" severity="warning" message="Expected @param tag for &apos;lifecycles&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="79" column="49" severity="warning" message="&apos;phases&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/mapping/LifecycleMapping.java">
+<error line="29" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycles.java">
+<error line="44" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="101" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="32" severity="warning" message="&apos;lifecycles&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleExecutor.java">
+<error line="45" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="62" column="64" severity="warning" message="Expected @param tag for &apos;packaging&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/MavenExecutionPlan.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/GoalTask.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ReactorContext.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleTaskSegmentCalculator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ExecutionEventCatapult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecyclePluginAnalyzer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleExecutionPlanCalculator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DependencyContext.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleDependencyResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleExecutionPlanCalculator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectIndex.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/MojoDescriptorCreator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/BuildThreadFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/CompoundProjectExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/BuilderCommon.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/BuilderNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/singlethreaded/SingleThreadedBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/Builder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/MultiThreadedBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ConcurrencyDependencyGraph.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/builder/multithreaded/ThreadOutputMuxer.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/MojoExecutor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ExecutionPlanItem.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/BuildListCalculator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultExecutionEventCatapult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleTask.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleModuleBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultProjectArtifactFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectBuildList.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultMojoExecutionConfigurator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecyclePluginResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleDebugLogger.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/PhaseRecorder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectSegment.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultLifecycleMappingDelegate.java">
+<error line="51" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ReactorBuildStatus.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/DefaultExecutionEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/TaskSegment.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/ProjectArtifactFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleTaskSegmentCalculator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/internal/LifecycleStarter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/MissingProjectException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/NoGoalSpecifiedException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleMappingDelegate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/DefaultLifecycleExecutor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/MojoExecutionConfigurator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifecycleNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/lifecycle/LifecyclePhaseNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/SessionScoped.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/aether/LoggingRepositoryListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/aether/ReverseTreeRepositoryListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/aether/ResolverLifecycle.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/aether/MavenChainedWorkspaceReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/aether/DefaultRepositorySystemSessionFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/internal/MultilineMessageHelper.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingException.java">
+<error line="80" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ExtensionDescriptorBuilder.java">
+<error line="46" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="86" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="86" column="50" severity="warning" message="Expected @param tag for &apos;is&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DuplicateProjectException.java">
+<error line="39" column="45" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="47" column="45" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="47" column="64" severity="warning" message="Expected @param tag for &apos;e&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultModelBuildingListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectDependenciesResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ExtensionDescriptor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifactsCache.java">
+<error line="98" column="45" severity="warning" message="Expected @param tag for &apos;cacheKey&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifact.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/ProjectArtifactMetadata.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/AttachedArtifact.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultMavenMetadataCache.java">
+<error line="45" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultMetadataSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/PluginArtifact.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/DefaultProjectArtifactsCache.java">
+<error line="163" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/InvalidDependencyVersionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/ActiveProjectArtifact.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/ArtifactWithDependencies.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/artifact/MavenMetadataCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectRealmCache.java">
+<error line="82" column="45" severity="warning" message="Expected @param tag for &apos;key&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/MavenProjectHelper.java">
+<error line="28" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectModelResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuilder.java">
+<error line="87" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ReactorModelCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DuplicateArtifactAttachmentException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingRequest.java">
+<error line="110" column="73" severity="warning" message="&apos;localRepository&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="123" column="82" severity="warning" message="&apos;remoteRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="137" column="90" severity="warning" message="&apos;pluginArtifactRepositories&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="151" column="66" severity="warning" message="&apos;systemProperties&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="165" column="64" severity="warning" message="&apos;userProperties&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="180" column="61" severity="warning" message="&apos;processPlugins&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="185" column="66" severity="warning" message="&apos;resolveDependencies&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="199" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="200" column="67" severity="warning" message="Expected @param tag for &apos;value&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="210" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="215" column="58" severity="warning" message="&apos;validationLevel&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingHelper.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectRealmCache.java">
+<error line="81" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/RepositorySessionDecorator.java">
+<error line="33" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="33" column="51" severity="warning" message="Expected @param tag for &apos;project&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="33" column="84" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingHelper.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ReactorModelPool.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultDependencyResolutionResult.java">
+<error line="51" column="51" severity="warning" message="&apos;root&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultDependencyResolutionRequest.java">
+<error line="56" column="77" severity="warning" message="&apos;filter&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="61" column="69" severity="warning" message="&apos;project&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectSorter.java">
+<error line="75" column="51" severity="warning" message="Expected @param tag for &apos;projects&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="188" column="28" severity="warning" message="&apos;sortedProjects&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="201" column="39" severity="warning" message="&apos;projectMap&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="233" column="39" severity="warning" message="&apos;projectMap&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/InvalidProjectVersionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DependencyResolutionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingRequest.java">
+<error line="116" column="43" severity="warning" message="Expected @param tag for &apos;activeProfileIds&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="177" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="185" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="186" column="60" severity="warning" message="Expected @param tag for &apos;value&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/MavenProject.java">
+<error line="94" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="96" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="98" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="182" column="15" severity="warning" message="&apos;model&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="255" column="33" severity="warning" message="&apos;file&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="255" column="33" severity="warning" message="Expected @param tag for &apos;file&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="283" column="22" severity="warning" message="&apos;file&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="613" column="31" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="754" column="67" severity="warning" message="&apos;injectedProfileIds&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="787" column="46" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1110" column="43" severity="warning" message="&apos;artifact&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1111" column="14" severity="warning" message="&apos;file&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1128" column="40" severity="warning" message="Expected @param tag for &apos;key&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1128" column="52" severity="warning" message="Expected @param tag for &apos;value&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1142" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1142" column="42" severity="warning" message="Expected @param tag for &apos;key&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1203" column="52" severity="warning" message="&apos;artifacts&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1357" column="23" severity="warning" message="&apos;artifacts&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1400" column="23" severity="warning" message="&apos;artifacts&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1425" column="23" severity="warning" message="&apos;artifacts&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1504" column="23" severity="warning" message="&apos;artifacts&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1632" column="39" severity="warning" message="Expected @param tag for &apos;type&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1632" column="52" severity="warning" message="Expected @param tag for &apos;classifier&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1632" column="69" severity="warning" message="&apos;file&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="1632" column="69" severity="warning" message="Expected @param tag for &apos;file&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1638" column="35" severity="warning" message="Expected @param tag for &apos;writer&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="1647" column="43" severity="warning" message="Expected @param tag for &apos;writer&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/path/PathTranslator.java">
+<error line="30" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/ProjectBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultProjectDependenciesResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/project/DefaultMavenProjectHelper.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ProjectBuildFailureException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/InternalErrorException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/MissingModuleException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/MavenExecutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/DefaultArtifactFilterManager.java">
+<error line="42" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="44" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="66" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="81" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/Maven.java">
+<error line="31" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/RepositoryUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/DelegatingLocalArtifactRepository.java">
+<error line="61" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/ArtifactDoesNotExistException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferResource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/RepositorySystem.java">
+<error line="43" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="45" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="48" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="51" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="54" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="56" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ArtifactMetadataSource.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/DefaultMetadataResolutionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ArtifactMetadataRetrievalException.java">
+<error line="33" column="54" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="39" column="57" severity="warning" message="Expected @param tag for &apos;cause&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="45" column="54" severity="warning" message="Expected @param tag for &apos;message&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="45" column="73" severity="warning" message="Expected @param tag for &apos;cause&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/MetadataResolutionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/ResolutionGroup.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/legacy/metadata/AbstractArtifactMetadata.java">
+<error line="29" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferFailedException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/ArtifactTransferEvent.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/LocalRepositoryNotAccessibleException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/repository/LocalArtifactRepository.java">
+<error line="28" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/BuildAbort.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ReactorReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/exception/ExceptionHandler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/exception/DefaultExceptionHandler.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/exception/ExceptionSummary.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/graph/GraphBuilder.java">
+<error line="31" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/graph/DefaultProjectDependencyGraph.java">
+<error line="105" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/graph/DefaultGraphBuilder.java">
+<error line="67" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/graph/FilteredProjectDependencyGraph.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainFactory.java">
+<error line="33" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="33" column="53" severity="warning" message="Expected @param tag for &apos;model&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="40" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/Toolchain.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/io/ToolchainsParseException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/io/DefaultToolchainsReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/io/ToolchainsWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/io/DefaultToolchainsWriter.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/io/ToolchainsReader.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/MisconfiguredToolchainException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuildingResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/ToolchainsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/building/DefaultToolchainsBuildingRequest.java">
+<error line="40" column="71" severity="warning" message="&apos;globalToolchainsSource&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="51" column="69" severity="warning" message="&apos;userToolchainsSource&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/merge/MavenToolchainMerger.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainManagerPrivate.java">
+<error line="43" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/RequirementMatcher.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainsBuilder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainManager.java">
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/RequirementMatcherFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchain.java">
+<error line="44" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="82" column="46" severity="warning" message="&apos;type&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/ToolchainPrivate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/DefaultToolchainManagerPrivate.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchainImpl.java">
+<error line="38" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/java/DefaultJavaToolChain.java">
+<error line="34" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchainFactory.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/toolchain/java/JavaToolchain.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/settings/MavenSettingsBuilder.java">
+<error line="34" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="36" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="37" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="38" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/settings/DefaultMavenSettingsBuilder.java">
+<error line="81" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="81" column="57" severity="warning" message="Expected @param tag for &apos;request&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/settings/SettingsConfigurationException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/settings/SettingsUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/monitor/event/EventDispatcher.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/monitor/event/EventMonitor.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExtensionEntry.java">
+<error line="58" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="65" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="72" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExports.java">
+<error line="57" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="64" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/extension/internal/CoreExportsProvider.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/ArtifactFilterManager.java">
+<error line="35" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="40" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="48" column="33" severity="warning" message="Expected @param tag for &apos;artifactId&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/DefaultProjectDependenciesResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginRealmCache.java">
+<error line="134" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginContainerException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/BuildPluginManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/MojosExecutionStrategy.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/LegacySupport.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginManagerException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/CompoundMojoExecutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResolutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/internal/DefaultPluginVersionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/internal/DefaultPluginVersionResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/PluginVersionResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/version/DefaultPluginVersionRequest.java">
+<error line="138" column="85" severity="warning" message="&apos;session&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginManager.java">
+<error line="42" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="67" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="50" severity="warning" message="Expected @param tag for &apos;plugin&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="71" severity="warning" message="Expected @param tag for &apos;project&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="93" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" column="45" severity="warning" message="Expected @param tag for &apos;plugin&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" column="66" severity="warning" message="Expected @param tag for &apos;project&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" column="88" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginNotFoundException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/MavenPluginManager.java">
+<error line="102" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="26" severity="warning" message="Expected @param tag for &apos;project&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="42" severity="warning" message="Expected @param tag for &apos;plugin&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="103" column="74" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="117" column="6" severity="warning" message="Expected @param tag for &apos;&lt;T&gt;&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/MavenPluginValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginConfigurationException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginParameterException.java">
+<error line="148" column="24" severity="warning" message="&apos;mojo&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/internal/DefaultPluginPrefixResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixResult.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/NoPluginFoundForPrefixException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/PluginPrefixRequest.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/prefix/DefaultPluginPrefixRequest.java">
+<error line="127" column="84" severity="warning" message="&apos;session&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginArtifactsCache.java">
+<error line="97" column="45" severity="warning" message="Expected @param tag for &apos;cacheKey&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultMojosExecutionStrategy.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginResolutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/CacheUtils.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginDescriptorParsingException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/PluginDependenciesResolver.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/MavenPluginConfigurationValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginValidationManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DeprecatedPluginValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultPluginDependenciesResolver.java">
+<error line="153" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="154" column="20" severity="warning" message="Expected @param tag for &apos;plugin&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="155" column="30" severity="warning" message="Expected @param tag for &apos;dependencyFilter&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="156" column="36" severity="warning" message="Expected @param tag for &apos;repositories&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="157" column="37" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/MavenPluginDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DeprecatedCoreExpressionValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/Maven2DependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultLegacySupport.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/WagonExcluder.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/AbstractMavenPluginParametersValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/ReadOnlyPluginParametersValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/MavenMixedDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/MavenScopeDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/AbstractMavenPluginDescriptorSourcedParametersValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/PlexusContainerDefaultDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/PluginDependencyResolutionListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/Maven3CompatDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/DefaultMavenPluginManager.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/AbstractMavenPluginDependenciesValidator.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/internal/ValidatingConfigurationListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/InvalidPluginException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/InvalidPluginDescriptorException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginLoaderException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginIncompatibleException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginExecutionException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultExtensionRealmCache.java">
+<error line="103" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginParameterExpressionEvaluator.java">
+<error line="114" column="16" severity="warning" message="&apos;basedir&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginValidationManager.java">
+<error line="59" column="27" severity="warning" message="Expected @param tag for &apos;locality&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="59" column="61" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="59" column="79" severity="warning" message="Expected @param tag for &apos;pluginArtifact&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="59" column="102" severity="warning" message="Expected @param tag for &apos;issue&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="27" severity="warning" message="Expected @param tag for &apos;locality&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="50" severity="warning" message="Expected @param tag for &apos;mavenSession&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="79" severity="warning" message="Expected @param tag for &apos;mojoDescriptor&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="67" column="102" severity="warning" message="Expected @param tag for &apos;issue&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="75" column="27" severity="warning" message="Expected @param tag for &apos;locality&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="76" column="26" severity="warning" message="Expected @param tag for &apos;mavenSession&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="77" column="28" severity="warning" message="Expected @param tag for &apos;mojoDescriptor&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="78" column="22" severity="warning" message="Expected @param tag for &apos;mojoClass&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="79" column="20" severity="warning" message="Expected @param tag for &apos;issue&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultBuildPluginManager.java">
+<error line="198" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="198" column="51" severity="warning" message="Expected @param tag for &apos;session&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="198" column="77" severity="warning" message="Expected @param tag for &apos;pluginDescriptor&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/ExtensionRealmCache.java">
+<error line="91" column="45" severity="warning" message="Expected @param tag for &apos;key&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/MojoExecution.java">
+<error line="205" column="76" severity="warning" message="&apos;forkedExecutions&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/MojoExecutionRunner.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginArtifactsCache.java">
+<error line="118" column="5" severity="info" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DebugConfigurationListener.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/DefaultPluginDescriptorCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/CycleDetectedInPluginGraphException.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginRealmCache.java">
+<error line="107" column="45" severity="warning" message="Expected @param tag for &apos;key&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/java/org/apache/maven/plugin/PluginDescriptorCache.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/main/resources/org/apache/maven/messages/build.properties">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/test/resources/META-INF/maven/org.apache.maven/maven-core/pom.properties">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-core/src/test/resources/projects/build.properties">
+</file>
+</checkstyle>

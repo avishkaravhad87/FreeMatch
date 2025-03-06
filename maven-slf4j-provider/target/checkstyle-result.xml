@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/MavenSimpleLogger.java">
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/StaticLoggerBinder.java">
+<error line="63" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/opt/maven/apache-maven-3.9.9/maven-slf4j-provider/src/main/java/org/slf4j/impl/MavenSimpleLoggerFactory.java">
+<error line="30" severity="warning" message="@return tag should be present and have description." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="30" column="36" severity="warning" message="Expected @param tag for &apos;name&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>
