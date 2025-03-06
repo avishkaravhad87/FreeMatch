@@ -29,7 +29,7 @@ under the License.
 
   <artifactId>maven</artifactId>
   <version>3.9.9</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
 
   <name>Apache Maven</name>
   <description>Maven is a software build management and
@@ -415,7 +415,7 @@ under the License.
         <artifactId>maven-resolver-transport-file</artifactId>
         <version>${resolverVersion}</version>
       </dependency>
-      eardependency>
+      <dependency>
         <groupId>org.apache.maven.resolver</groupId>
         <artifactId>maven-resolver-transport-http</artifactId>
         <version>${resolverVersion}</version>

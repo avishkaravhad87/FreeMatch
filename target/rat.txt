@@ -2,12 +2,12 @@
 *****************************************************
 Summary
 -------
-Generated at: 2025-03-06T18:51:44Z
+Generated at: 2025-03-06T20:54:14Z
 
 Notes: 3
 Binaries: 0
 Archives: 0
-Standards: 13
+Standards: 14
 
 Apache Licensed: 13
 Generated Documents: 0
@@ -15,7 +15,15 @@ Generated Documents: 0
 JavaDocs are generated, thus a license header is optional.
 Generated files do not require license headers.
 
-0 Unknown Licenses
+1 Unknown Licenses
+
+*****************************************************
+
+Files with unapproved licenses:
+
+  deleteafterpractice/test.py
+
+*****************************************************
 
 *****************************************************
   Files with Apache License headers will be marked AL
@@ -35,8 +43,16 @@ Generated files do not require license headers.
   AL    .github/pull_request_template.md
   AL    .git-blame-ignore-revs
   AL    README.md
+ !????? deleteafterpractice/test.py
   N     NOTICE
   AL    CONTRIBUTING.md
   AL    prepare-svg.sh
  
 *****************************************************
+
+ Printing headers for text files without a valid license header...
+ 
+=====================================================
+== File: deleteafterpractice/test.py
+=====================================================
+print("wassup buddy!!v6")
